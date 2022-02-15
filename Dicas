@@ -1,0 +1,7 @@
+Uma ótima maneira de manter o seu site protegido de hackers é sempre inicializar suas variáveis para proteger o seu site de ataques XSS.
+
+Não fechar o php ao final do arquivo, caso esteja usando somente PHP no mesmo.
+Fechar somente se estiver misturando HTML com PHP
+É importante em termos de segurança
+
+
